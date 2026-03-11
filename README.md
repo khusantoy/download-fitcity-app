@@ -16,8 +16,5 @@ Host `index.html` on any static hosting service (GitHub Pages, Netlify, Vercel, 
 
 Pure HTML + JavaScript. No dependencies, no build step.
 ```
-
----
-
-**Smart redirect page that sends users to Google Play or App Store based on their device — for FitCity UZ app.**:
+Smart redirect page that sends users to Google Play or App Store based on their device — for FitCity UZ app.:
 ```
