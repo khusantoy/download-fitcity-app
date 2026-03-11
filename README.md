@@ -19,6 +19,5 @@ Pure HTML + JavaScript. No dependencies, no build step.
 
 ---
 
-**GitHub repo description** (short, 1 line):
+**Smart redirect page that sends users to Google Play or App Store based on their device — for FitCity UZ app.**:
 ```
-Smart redirect page that sends users to Google Play or App Store based on their device — for FitCity UZ app.
